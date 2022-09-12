@@ -1,0 +1,41 @@
+{
+  "sceneName": "ListAll",
+  "data": [
+    {
+      "id": 0,
+      "status": 0,
+      "data": "Buy a Pony",
+      "createdAt": "2022-09-7T13: 28: 11.017Z"
+    },
+    {
+      "id": 1,
+      "status": 1,
+      "data": "Keep Calm",
+      "createdAt": "2022-09-7T13: 28: 11.017Z"
+    },
+    {
+      "id": 2,
+      "status": 1,
+      "data": "Play Pokémon",
+      "createdAt": "2022-09-7T13: 28: 11.017Z"
+    },
+    {
+      "id": 3,
+      "status": 2,
+      "data": "Play Donkey Kong",
+      "createdAt": "2022-09-7T13: 28: 11.017Z"
+    },
+    {
+      "id": 4,
+      "status": 2,
+      "data": "Do the Macarena",
+      "createdAt": "2022-09-7T13: 28: 11.017Z"
+    }
+  ],
+  "interfaceUniqId": "0108c7d4-b26b-4c7b-b8b9-c34803f745e9",
+  "contextConfig": {
+    "responseHeaders": {}
+  },
+  "uniqId": "062885c4-238f-4076-ba77-e48654ccf4f3",
+  "format": "json"
+}

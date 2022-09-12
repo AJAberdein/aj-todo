@@ -1,0 +1,14 @@
+{
+  "sceneName": "Error",
+  "data": {
+    "message": "Oh Nose! Looks like something went wrong. Please try again later."
+  },
+  "interfaceUniqId": "0108c7d4-b26b-4c7b-b8b9-c34803f745e9",
+  "contextConfig": {
+    "responseDelay": 0,
+    "responseStatus": "500",
+    "responseHeaders": {}
+  },
+  "uniqId": "5497fa21-5e06-4b0e-94f0-08548092a7b1",
+  "format": "json"
+}

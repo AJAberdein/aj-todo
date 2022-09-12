@@ -1,0 +1,11 @@
+{
+  "protocol": "http",
+  "pathname": "todo",
+  "method": "GET",
+  "projectUniqId": "5db2309a-ffaf-40b7-accc-d7af1c6814d2",
+  "description": "get list of TODO's",
+  "currentScene": "Error",
+  "proxyConfig": {},
+  "uniqId": "0108c7d4-b26b-4c7b-b8b9-c34803f745e9",
+  "groupUniqId": "b8f56c57-d131-4d6c-b2b0-12c237b89fad"
+}
